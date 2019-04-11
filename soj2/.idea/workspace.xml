@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="996ac5aa-de80-4104-8bbd-edd516b144cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soj2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Beans/TransactionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Beans/TransactionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/soj2ex2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/repository/TransactionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/repository/TransactionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/model/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/repository/BankAccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/service/BankAccountService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soj1ex1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soj1ex1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soj2ex2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soj2ex2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soj2ex2/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/main/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
