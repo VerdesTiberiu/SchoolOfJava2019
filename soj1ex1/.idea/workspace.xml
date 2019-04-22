@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47a2e1a1-341c-45d1-af64-6af0a6fdb8b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/model/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/repository/BankAccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/service/BankAccountService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soj2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soj2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soj2ex2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soj2ex2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soj2ex2/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../soj2ex2/src/main/java/main/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/config/ProjectConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="102">
               <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,9 +84,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="146" />
-    <option name="y" value="28" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="117" />
+    <option name="y" value="26" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -100,6 +96,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,12 +131,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../soj5/soj5/soj5" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -189,10 +186,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="117" y="23" width="1400" height="784" extended-state="1" />
+    <frame x="94" y="21" width="1400" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29402986" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30298507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -240,7 +237,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/config/ProjectConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="102">
           <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
